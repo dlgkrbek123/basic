@@ -1,1 +1,1 @@
-int funcA(int,int);
+int funcA(int);
